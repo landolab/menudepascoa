@@ -19,7 +19,7 @@ body{
 
 header{
     text-align: center;
-    font-family: var(--font01);
+    font-family:  'Amatic SC', cursive;
     font-size: 50px;
     font-weight: bolder;
     padding: 20px;
@@ -35,7 +35,7 @@ h1{
     padding: 10px;
     padding-bottom: 20px;
     padding-top: 20px;
-    font-family: var(--font02);
+    font-family: 'Roboto', sans-serif;
     color: white;
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.712);
     font-size: 35px;
@@ -43,11 +43,11 @@ h1{
 
 h2{
     padding-bottom: 10px;
-    font-family: var(--font02);
+    font-family: 'Roboto', sans-serif;
 }
 
 h3{
-    font-family: var(--font02);
+    font-family: 'Roboto', sans-serif;
     padding-bottom: 10px;
     padding-top: 20px;
 }
